@@ -7,3 +7,5 @@
 - [x] ruin my life
 - [ ] set up godmode
 - [x] drink water
+
+We are someone
